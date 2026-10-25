@@ -12,7 +12,7 @@ It runs inside your own Claude account. No sign-up, no API key, nothing to pay f
 <img width="387" height="459" alt="image" src="https://github.com/user-attachments/assets/bed44c05-ea17-47ac-8903-e3a2b16cc29b" />
 
 
-<img width="385" height="561" alt="image" src="https://github.com/user-attachments/assets/9a2d7c04-4c09-44ee-aa7c-3af5d4383f40" />
+<img width="385" height="461" alt="image" src="https://github.com/user-attachments/assets/9a2d7c04-4c09-44ee-aa7c-3af5d4383f40" />
 
 
 
