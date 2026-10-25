@@ -9,7 +9,11 @@ It runs inside your own Claude account. No sign-up, no API key, nothing to pay f
 - **Dump**: write whatever's in your head. It pulls out up to four video ideas, says which are worth filming, and gives you two hook lines for each, written from your own words.
 <img width="395" height="545" alt="image" src="https://github.com/user-attachments/assets/c609e6a7-bd36-4a39-843d-4846df512f2f" /> 
 
-<img width="395" height="545" alt="image" src="https://github.com/user-attachments/assets/72496ad1-a685-47a1-98b1-84014abfad4f" />
+<img width="317" height="559" alt="image" src="https://github.com/user-attachments/assets/bed44c05-ea17-47ac-8903-e3a2b16cc29b" />
+
+
+<img width="315" height="561" alt="image" src="https://github.com/user-attachments/assets/9a2d7c04-4c09-44ee-aa7c-3af5d4383f40" />
+
 
 
 - **Pieces**: one saved page per video. Brief, hook, script, caption. Every version is kept.
